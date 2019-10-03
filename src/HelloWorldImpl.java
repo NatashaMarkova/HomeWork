@@ -1,2 +1,2 @@
-public class HelloWorldImpl extends HelloWorld {
+public class HelloWorldImpl {
 }
